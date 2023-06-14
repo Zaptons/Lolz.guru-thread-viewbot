@@ -3,4 +3,4 @@
 # Tool settings
 link_to_boost: "https://zelenka.guru/threads/5393893/?pget=1"
 proxies_file: "src/input/proxies.txt"
-threads: 30
+threads: 10
