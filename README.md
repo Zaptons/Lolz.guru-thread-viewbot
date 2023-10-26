@@ -15,7 +15,7 @@ Follow these steps to set up and use the Thread Viewbot:
 Before using the Thread Viewbot, make sure you have the following dependencies installed:
 
 - Python 3.x
-- Required Python libraries (see `requirements.txt`)
+- Required Python libraries 
 
 ### Installation
 
@@ -27,5 +27,4 @@ Before using the Thread Viewbot, make sure you have the following dependencies i
 
    
 Install the required Python packages:
-   ```shell
-      pip install -r requirements.txt
+
