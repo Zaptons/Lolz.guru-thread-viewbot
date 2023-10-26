@@ -1,6 +1,31 @@
-# Lolz.Guru Thread Viewbot
- A simple lolz.guru thread viewbot. Will increase view count on lolz.guru threads using threading and python requests with spoofed user agents. 
-This project is only for learning purposes and may include bugs.
+# Thread Viewbot for Lolz.live
 
-Todo.
-Fix threading being a bit slow on lq proxies.
+## Overview
+
+The "Thread Viewbot" is a tool designed to increase the view count on threads hosted on the Lolz.live website. This tool automates the process of simulating thread views, allowing you to achieve a desired view count for your threads.
+
+**Note:** Ensure you use this tool responsibly and in compliance with the terms of service and ethical guidelines of Lolz.live.
+
+## Getting Started
+
+Follow these steps to set up and use the Thread Viewbot:
+
+### Prerequisites
+
+Before using the Thread Viewbot, make sure you have the following dependencies installed:
+
+- Python 3.x
+- Required Python libraries (see `requirements.txt`)
+
+### Installation
+
+1. Clone this repository:
+
+   ```shell
+   git clone https://github.com/yourusername/thread-viewbot.git
+   cd thread-viewbot
+
+   
+Install the required Python packages:
+   ```shell
+      pip install -r requirements.txt
